@@ -1,3 +1,5 @@
+import Lexer from "node_modules/@mephiztopheles/lexer/Lexer.js";
+
 export default class ASTCompiler {
 
     public static EXTRA_NAME      = "l";

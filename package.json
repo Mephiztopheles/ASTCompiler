@@ -1,0 +1,26 @@
+{
+    "name": "@mephiztopheles/astcompiler",
+    "version": "1.0.0",
+    "description": "Abstract Syntax Tree compiler for JS",
+    "main": "ASTCompiler.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mephiztopheles/ASTCompiler.git"
+    },
+    "keywords": [
+        "ast",
+        "mephiztopheles"
+    ],
+    "author": "Xandrios93",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Mephiztopheles/ASTCompiler/issues"
+    },
+    "homepage": "https://github.com/Mephiztopheles/ASTCompiler#readme",
+    "dependencies": {
+        "@mephiztopheles/lexer": "1.0.0"
+    }
+}
